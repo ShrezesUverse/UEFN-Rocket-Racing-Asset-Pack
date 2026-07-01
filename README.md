@@ -36,7 +36,7 @@ Download both `.uasset` files from this repo, then:
    This folder chain won't exist by default maybe... if you do NOT happen to have rhose folders then just create them.
    `Plugins → GameFeatures → DelMar → DelMarCore → Content → UEFNExposedAssets`
 
-Now, when loading into a project, goto Tortnite and you should have a DelMar folder with all content inside. You can also search for that content using the quick search bar in your content drawer.
+Now, when loading into a project, goto Tortnite and you should have a DelMar folder with all content inside. You can also search for that content using the quick search bar in your content drawer.**This is a full export, so expect a handful of assets to fail validation most will validate and work fine** e.g. many devices wont validate.
 
 ## Final folder structure
 
